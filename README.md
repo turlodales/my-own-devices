@@ -11,8 +11,8 @@ my own devices
 # my 64bit iPhones
 | Device | iphone 5S | iphone 6 | iphone 6S | iphone 6S+ | iphone SE | iphone 8+ | iphone 11 Pro Max |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
-| iOS version | iphone 5S | iphone 6 | iphone 6S | iphone 6S+ | iphone SE | iphone 8+ | iphone 11 Pro Max |
-| Jail broken | iphone 5S | iphone 6 | iphone 6S | iphone 6S+ | iphone SE | iphone 8+ | iphone 11 Pro Max |
+| iOS version | iphone 5S | iphone 6 | iphone 6S | iphone 6S+ | iphone SE | iphone 8+ | 13.0 |
+| Jail broken | iphone 5S | iphone 6 | iphone 6S | iphone 6S+ | iphone SE | iphone 8+ | NO |
 
 
 # my 64bit iPads
@@ -37,7 +37,7 @@ my own devices
 
 
 # my mac's
-| Device | apple mac mini late 2012  | apple macbook pro mid 2012 | ipad Pro 12.9 3rd gen |
-| ---------- | ---------- | ---------- | ---------- | 
-| iOS version |  |  |  | 
+| Device | apple mac mini late 2012  | apple macbook pro mid 2012 | 
+| ---------- | ---------- | ---------- |  
+| iOS version |  |  |  
 
