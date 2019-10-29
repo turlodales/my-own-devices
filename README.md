@@ -11,7 +11,7 @@ my own devices
 # my 64bit iPhones
 | Device | iphone 5S | iphone 6 | iphone 6S | iphone 6S+ | iphone SE | iphone 8+ | iphone 11 Pro Max |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
-| iOS version |  |  | 12.2 |  10.2|  | 11.0 | 13.0 |
+| iOS version | 12.1.2 |  | 12.2 |  10.2| 12.1.2 | 11.0 | 13.0 |
 | Jail broken | YES | YES | YES | YES | YES | YES | NO |
 
 
