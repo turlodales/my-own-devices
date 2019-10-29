@@ -30,7 +30,7 @@ my own devices
 
 
 # my apple tv
-| Device | ipad ATV 3rd Gen | ATV 4th gen | 
+| Device | ATV 3rd Gen | ATV 4th gen | 
 | ---------- | ---------- | ---------- |  
 | iOS version | 8.4.3 | 12.4 |  
 | Jail broken | NO | YES |   
