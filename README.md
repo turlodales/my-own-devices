@@ -2,10 +2,10 @@
 my own devices
 
 # my 32bit iPhones
-| Device      | iPhone2G | iPhone 3GS | iPhone 4 | iPhone 4S | iPhone 5 | iPhone 5C | 
-| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| iOS version | 3.1.3 | 6.1.6 | 7.1.2 | 9.3.6 | 10.3.4 | 10.3.3 | 
-| Jail broken | YES | YES | YES | YES | YES | YES | 
+| Device      | iPhone2G | iPhone 3G | iPhone 3GS| iPhone 4 | iPhone 4S | iPhone 5 | iPhone 5C | 
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
+| iOS version | 3.1.3 | 4.2.1 |6.1.6 | 7.1.2 | 9.3.6 | 10.3.4 | 10.3.3 | 
+| Jail broken | YES | YES | YES | YES | YES | YES | YES |
 
 
 # my 64bit iPhones
