@@ -52,7 +52,7 @@ my own devices
 # My FreeNAS
 | Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | PSU | SSD | HDD | OS |
 | ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Device | Case | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 8GB ECC| onboard | PSU | SSD | 15x4TB | 11.2.U7 |
+| Device | Rackmount | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 8GB ECC| onboard | PSU | 32GB USB | 15x4TB | 11.2.U7 |
 | Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | PSU | SSD | HDD | HDD |
 
 
