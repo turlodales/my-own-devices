@@ -43,16 +43,16 @@ my own devices
 
 
 # My Pc's
-| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | PSU | SSD | HDD | OS |
-| ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Gaming / Video Editing PC  | Air540 Black | ASUS M5A97 (Socket 942) | AMD FX-8350 Eight-Core Processor AM3+| Patriot Viper 4x8GB = 32GB DDR3 1600MHz | Radeon RX 580 Series | PSU | SanDisk Ultra 3D 500GB | WestenDigital 500GB | Windows 10 Pro 64-bit |
-| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | PSU | SSD | HDD | Windows 10 Pro 64-bit |
+| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | CPU Cooling | PSU | SSD | HDD | OS |
+| ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
+| Gaming / Video Editing PC  | Air540 Black | ASUS M5A97 (Socket 942) | AMD FX-8350 Eight-Core Processor AM3+| Patriot Viper 4x8GB = 32GB DDR3 1600MHz | Radeon RX 580 Series | CorseAir H80I V2 | PSU | SanDisk Ultra 3D 500GB | WestenDigital 500GB | Windows 10 Pro 64-bit |
+| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card |---------- | PSU | SSD | HDD | Windows 10 Pro 64-bit |
 
 
 # My FreeNAS
-| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | PSU | SSD | HDD | OS |
-| ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Device | Rackmount | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 8GB ECC| onboard | PSU | 32GB USB | 15x4TB | 11.2.U7 |
-| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | PSU | SSD | HDD | HDD |
+| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | CPU Cooling | PSU | SSD | HDD | OS |
+| ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
+| Device | Rackmount | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 8GB ECC| onboard | Stock Cooler | PSU | 32GB USB | 15x4TB | 11.2.U7 |
+| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card |---------- | PSU | SSD | HDD | HDD |
 
 
