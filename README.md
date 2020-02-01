@@ -45,8 +45,8 @@ my own devices
 # My Pc's
 | Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | PSU | SSD | HDD | OS |
 | ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | PSU | SSD | HDD | Win Pro 10 |
-| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | PSU | SSD | HDD | Win Pro 10 |
+| Device | Air 540 Black | ASUS M5A97 (Socket 942) | AMD FX-8350 Eight-Core Processor AM3+| Patriot Viper 32GB DDR3 1600MHz | Radeon RX 580 Series | PSU | SanDisk SDSSDH3500G (SSD) | WDC WD5000BPVT-16HXZT3 | Windows 10 Pro 64-bit |
+| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | PSU | SSD | HDD | Windows 10 Pro 64-bit |
 
 
 # My FreeNAS
