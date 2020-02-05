@@ -41,6 +41,13 @@ My Own Devices
 | ---------- | ---------- | ---------- |  
 | MacOS version |  |  |  
 
+| Device | Prosessor | Memory | Graphics Card | SSD | HDD | OS |
+| ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- |  
+| MAC Mini Late 2012  | 2.5GHz Intel Core I5 | 2x2GB= 4GB @ 1600MHz DDR3 | Intel HD Graphics 4000 1536MB | - | 500GB | MacOS Catalina 10.15 Beta  |
+
+
+
+
 
 # My Pc's
 | Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | CPU Cooling | PSU | SSD | HDD | OS |
