@@ -36,11 +36,7 @@ My Own Devices
 | Jail broken | NO | YES |   
 
 
-# My mac's
-| Device | apple mac mini late 2012  | apple macbook pro mid 2012 | 
-| ---------- | ---------- | ---------- |  
-| MacOS version |  |  |  
-
+# My Mac's
 | Device | Prosessor | Memory | Graphics Card | SSD | HDD | OS |
 | ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- |  
 | MAC Mini Late 2012  | 2.5GHz Intel Core I5 | 2x2GB= 4GB @ 1600MHz DDR3 | Intel HD Graphics 4000 1536MB | - | 500GB | MacOS Catalina 10.15 Beta  |
