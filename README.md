@@ -40,8 +40,8 @@ My Own Devices
 | Device | Prosessor | Memory | Graphics Card | SSD | HDD | OS |
 | ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- |  
 | MAC Mini Late 2012  | 2.5GHz Intel Core I5 | 2x2GB= 4GB @ 1600MHz DDR3 | Intel HD Graphics 4000 1536MB | - | 500GB | MacOS Catalina 10.15 Beta  |
-| MACBook Pro Mid 2012  | 2.5GHz Intel Core I5 | 2x4GB= 8GB @ 1600MHz DDR3 | Intel HD Graphics 4000 1536MB | 960GB | 500GB | MacOS Catalina 10.15.4 Beta (19E224g)  |
-
+| MACBook Pro Late 2011  | 2.4GHz Intel Core I5 | 2x4GB= 8GB @ 1600MHz DDR3 | Intel HD Graphics 3000 512MB | 128GB | 250GB | MacOS High Sierra 10.13.6  | 
+| MACBook Pro Mid 2012  | 2.5GHz Intel Core I5 | 2x8GB= 16GB @ 1333MHz DDR3 | Intel HD Graphics 4000 1536MB | 960GB | 500GB | MacOS Catalina 10.15.4 Beta (19E224g)  |
 
 
 # My Pc's
