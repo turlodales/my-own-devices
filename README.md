@@ -18,7 +18,7 @@ My Own Devices
 # My 64bit iPads
 | Device | ipad Air 2 | ipad Pro 12.9 1st gen | ipad Pro 12.9 3rd gen |
 | ---------- | ---------- | ---------- | ---------- | 
-| iOS version | 10.2 | 10.2 | 12.1 | 
+| iOS version | 10.2 | 13.5 | 12.1 | 
 | Jail broken | yes | yes | yes | 
 
 
@@ -53,5 +53,5 @@ My Own Devices
 # My FreeNAS
 | Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | CPU Cooling | PSU | SSD | HDD | OS |
 | ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
-| Media Server | Rackmount | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 8GB ECC| onboard | Stock Cooler | PSU | 32GB USB | 15x4TB | 11.2.U7 |
+| Media Server | Rackmount | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 8GB ECC| onboard | Stock Cooler | PSU | 32GB USB | 15x4TB | 11.3-U3.1 |
 | Device | Case | Motherboard  | Prosessor | Memory | Graphics Card |---------- | PSU | SSD | HDD | HDD |
