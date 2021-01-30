@@ -19,7 +19,7 @@ My Own Devices
 | Device | ipad Air 2 | ipad Pro 12.9 1st gen | ipad Pro 12.9 3rd gen |ipad Mini 2nd gen |
 | ---------- | ---------- | ---------- | ---------- |---------- | 
 | iOS version | 10.2 | 13.5 | 13.5 | 12.5.1 |
-| Jail broken | yes | yes | yes | yes |
+| Jail broken | yes | yes | yes | yes | 
 
 
 # My Apple Watch
