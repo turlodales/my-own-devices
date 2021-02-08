@@ -25,7 +25,7 @@ My Own Devices
 # My Apple Watch
 | Device | Apple Watch 1st gen (original) 42mm | Apple Watch 6th gen 44mm |
 | ---------- | ---------- | ---------- |
-| iOS version | 4.3.2 |  ? |
+| iOS version | 4.3.2 |  7.0 |
 | Jail broken | NO |  No |
 
 
@@ -41,8 +41,8 @@ My Own Devices
 | ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- |  
 | Mac Mini Late 2012  | 2.5GHz Intel Core I5 | 2x2GB= 4GB @ 1600MHz DDR3 | Intel HD Graphics 4000 1536MB | - | 500GB | MacOS Catalina 10.15.7  |
 | MacBook Pro Late 2011  | 2.4GHz Intel Core I5 | 2x4GB= 8GB @ 1600MHz DDR3 | Intel HD Graphics 3000 512MB | 128GB | 250GB | MacOS High Sierra 10.13.6  | 
-| MacBook Pro Mid 2012  | 2.5GHz Intel Core I5 | 2x8GB= 16GB @ 1333MHz DDR3 | Intel HD Graphics 4000 1536MB | 960GB | 500GB | MacOS Catalina 10.15.6  |
-| MacBook Pro Late 2013  | 2.6GHz Intel Core I5 | 2x8GB= 16GB @ 1600MHz DDR3 | Intel iris 1536MB | 500GB | - | MacOS Big Sur 11.0.1 Beta 1 20B5012d  |
+| MacBook Pro Mid 2012  | 2.5GHz Intel Core I5 | 2x8GB= 16GB @ 1333MHz DDR3 | Intel HD Graphics 4000 1536MB | 960GB | 500GB | MacOS Catalina 10.15.7  |
+| MacBook Pro Late 2013  | 2.6GHz Intel Core I5 | 2x8GB= 16GB @ 1600MHz DDR3 | Intel iris 1536MB | 500GB | - | macOS Big Sur 11.3 Beta 1 20E5172i  |
 
 
 # My Pc's
@@ -51,8 +51,8 @@ My Own Devices
 | Gaming / Video Editing PC  | Air540 Black | ASUS M5A97 AM3+ | AMD FX-8350 Eight-Core Processor AM3+| Patriot Viper 4x8GB = 32GB DDR3 1600MHz | Radeon RX 580 Series | CorseAir H80I V2 | PSU | SanDisk Ultra3D 500GB | WestenDigital 500GB Blue | Windows 10 Pro 64-bit |
 
 
-# My FreeNAS
+# My FreeNAS/TrueNAS
 | Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | CPU Cooling | PSU | SSD | HDD | OS |
 | ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
-| Media Server | Rackmount | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 8GB ECC| onboard | Stock Cooler | PSU | 32GB USB | 10x4TB | 11.3-U5 |
+| Media Server | Rackmount | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 8GB ECC| onboard | Stock Cooler | PSU | 32GB USB | 10x4TB | TrueNAS-12.0-U1.1 |
 | temp backup | Rackmount | motherboad  | Prosessor | Memory | Graphics Card |---------- | PSU | SSD | HDD | HDD |
