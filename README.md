@@ -56,3 +56,12 @@ My Own Devices
 | ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
 | Media Server | Rackmount | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 8GB ECC| onboard | Stock Cooler | PSU | 32GB USB | 10x4TB | TrueNAS-12.0-U1.1 |
 | temp backup | Rackmount | motherboad  | Prosessor | Memory | Graphics Card |---------- | PSU | SSD | HDD | HDD |
+
+
+# My Raspberry PI
+| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | CPU Cooling | PSU | SSD | HDD | OS |
+| ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
+| Raspberry PI 4 | none | Raspberry PI 4  | Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz | 8GB LPDDR4-3200 SDRAM| onboard | Stock Cooler | PoE Hat | 16GB Micro SD | none |  |
+
+
+
