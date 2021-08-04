@@ -51,17 +51,9 @@ My Own Devices
 | Prosessor    | 2.5GHz Intel Core I5 | 2.4GHz Intel Core I5 | 2.5GHz Intel Core I5 | 2.6GHz Intel Core I5 | 2.6GHz Intel Core I5 | MacBook Pro ? |
 | Memory | 2x2GB= 4GB @ 1600MHz DDR3  | 2x4GB= 8GB @ 1600MHz DDR3 | 2x8GB= 16GB @ 1333MHz DDR3 | 2x8GB= 16GB @ 1600MHz DDR3 | 2x8GB= 16GB @ 1600MHz LPDDR3 |  | 
 | Graphics Card | Intel HD Graphics 4000 1536MB | Intel HD Graphics 3000 512MB | Intel HD Graphics 4000 1536MB | Intel iris Graphics 1536MB | Intel Iris Graphics 1536MB | ? |
-| SSD | - | 128GB |  |  |  |  |
-| HDD | 500GB | 250GB |  |  |  |  |
-| OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 |  |  |  | MacOS Monterey 12.0 Beta 3 (21A5284e)  |
-
-
-# My Mac's
-| Device | Prosessor | Memory | Graphics Card | SSD | HDD | OS |
-| ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- |  
-| MacBook Pro Mid 2012  |  |  |  | 960GB | 500GB | MacOS Catalina 10.15.7  |
-| MacBook Pro Late 2013 |  |  |  | 500GB | - | macOS Big Sur 11.4 Beta (20F5046g) |
-| Mac Mini Late 2014 |  |  |  | 0GB | 251GB | MacOS Monterey 12.0 Beta 3 (21A5284e)  |
+| SSD | - | 128GB | 960GB | 500GB | - |  |
+| HDD | 500GB | 250GB | 500GB | - | 251GB |  |
+| OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.4 Beta (20F5046g) | MacOS Monterey 12.0 Beta 3 (21A5284e) |  |
 
 
 # My Pc's
