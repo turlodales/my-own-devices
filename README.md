@@ -45,6 +45,26 @@ My Own Devices
 | MacBook Pro Late 2013 | 2.6GHz Intel Core I5 | 2x8GB= 16GB @ 1600MHz DDR3   | Intel iris Graphics 1536MB | 500GB | - | macOS Big Sur 11.4 Beta (20F5046g) |
 | Mac Mini Late 2014 | 2.6GHz Intel Core I5 | 2x8GB= 16GB @ 1600MHz LPDDR3 | Intel Iris Graphics 1536MB | 0GB | 251GB | MacOS Monterey 12.0 Beta 3 (21A5284e)  |
 
+# My Mac's
+| Device | Mac Mini Late 2012 | Memory | Graphics Card | SSD | HDD | OS |
+| ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- |  
+| Prosessor    | 2.5GHz Intel Core I5 |  |  |  |  |  |
+| Memory | 2x2GB= 4GB @ 1600MHz DDR3 | 2x4GB= 8GB @ 1600MHz DDR3    | Intel HD Graphics 3000 512MB | 128GB | 250GB | MacOS High Sierra 10.13.6  | 
+| Graphics Card  | Intel HD Graphics 4000 1536MB | 2x8GB= 16GB @ 1333MHz DDR3   | Intel HD Graphics 4000 1536MB | 960GB | 500GB | MacOS Catalina 10.15.7  |
+| SSD | - | 2x8GB= 16GB @ 1600MHz DDR3   | Intel iris Graphics 1536MB | 500GB | - | macOS Big Sur 11.4 Beta (20F5046g) |
+| HDD | 500GB | 2x8GB= 16GB @ 1600MHz LPDDR3 | Intel Iris Graphics 1536MB | 0GB | 251GB | MacOS Monterey 12.0 Beta 3 (21A5284e)  |
+| OS | MacOS Catalina 10.15.7 | 2x8GB= 16GB @ 1600MHz LPDDR3 | Intel Iris Graphics 1536MB | 0GB | 251GB | MacOS Monterey 12.0 Beta 3 (21A5284e)  |
+
+
+# My Mac's
+| Device | Prosessor | Memory | Graphics Card | SSD | HDD | OS |
+| ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- |  
+| MacBook Pro Late 2011 | 2.4GHz Intel Core I5 | 2x4GB= 8GB @ 1600MHz DDR3    | Intel HD Graphics 3000 512MB | 128GB | 250GB | MacOS High Sierra 10.13.6  | 
+| MacBook Pro Mid 2012  | 2.5GHz Intel Core I5 | 2x8GB= 16GB @ 1333MHz DDR3   | Intel HD Graphics 4000 1536MB | 960GB | 500GB | MacOS Catalina 10.15.7  |
+| MacBook Pro Late 2013 | 2.6GHz Intel Core I5 | 2x8GB= 16GB @ 1600MHz DDR3   | Intel iris Graphics 1536MB | 500GB | - | macOS Big Sur 11.4 Beta (20F5046g) |
+| Mac Mini Late 2014 | 2.6GHz Intel Core I5 | 2x8GB= 16GB @ 1600MHz LPDDR3 | Intel Iris Graphics 1536MB | 0GB | 251GB | MacOS Monterey 12.0 Beta 3 (21A5284e)  |
+
+
 # My Pc's
 | Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | CPU Cooling | PSU | SSD | HDD | OS |
 | ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
