@@ -54,10 +54,18 @@ My Own Devices
 
 
 # My FreeNAS/TrueNAS
-| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | CPU Cooling | PSU | SSD | HDD | OS |
-| ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
-| Media Server | Rackmount | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 8GB ECC| onboard | Stock Cooler | PSU | 32GB USB | 10x4TB | TrueNAS-12.0-U5 |
-| temp backup | Rackmount | motherboad  | Prosessor | Memory | Graphics Card |---------- | PSU | SSD | HDD | HDD |
+| Device |  Media Server | 
+| ---------- | ---------- | 
+| Case | Rackmount | 
+| Motherboard | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  |
+| Prosessor | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 
+| Memory | 8GB ECC | 
+| Graphics Card | onboard |
+| CPU Cooling | Stock Cooler | 
+| PSU | ? | 
+| SSD | 32GB USB | 
+| HDD | 10x4TB | 
+| OS | TrueNAS-12.0-U5 |
 
 
 # My Raspberry PI
