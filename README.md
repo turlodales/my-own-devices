@@ -44,7 +44,7 @@ My Own Devices
 | Graphics Card | Intel HD Graphics 4000 1536MB | Intel HD Graphics 3000 512MB | Intel HD Graphics 4000 1536MB | Intel iris Graphics 1536MB | Intel Iris Graphics 1536MB | - |
 | SSD | - | 128GB | 960GB | 500GB | - | - |
 | HDD | 500GB | 250GB | 500GB | - | 251GB | - |
-| OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.4 Beta (20F5046g) | MacOS Monterey 12.0 Beta 5 (21A5284e) | - |
+| OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.4 Beta (20F5046g) | MacOS Monterey 12.0 Beta 6 (21A5506j) | - |
 
 
 # My Pc's
@@ -65,7 +65,7 @@ My Own Devices
 | PSU | ? | 
 | SSD | 32GB USB | 
 | HDD | 10x4TB | 
-| OS | TrueNAS-12.0-U5 |
+| OS | TrueNAS-12.0-U5.1 |
 
 
 # My Raspberry PI
