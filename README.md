@@ -65,7 +65,7 @@ My Own Devices
 | PSU | ? | 
 | SSD | 32GB USB | 
 | HDD | 10x4TB | 
-| OS | TrueNAS-12.0-U5.1 |
+| OS | TrueNAS-12.0-U6 |
 
 
 # My Raspberry PI
