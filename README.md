@@ -37,7 +37,7 @@ My Own Devices
 
 
 # My Mac's
-| Device | Mac Mini Late 2012 | MacBook Pro Late 2011 | MacBook Pro Mid 2012 | MacBook Pro Late 2013 | Mac Mini Late 2014 | MacBook Pro M1 Max |
+| Device | Mac Mini Late 2012 | MacBook Pro Late 2011 | MacBook Pro Mid 2012 | MacBook Pro Late 2013 | Mac Mini Late 2014 | MacBook Pro M1 Max 2021 |
 | ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- |  
 | Prosessor    | 2.5GHz Intel Core I5 | 2.4GHz Intel Core I5 | 2.5GHz Intel Core I5 | 2.6GHz Intel Core I5 | 2.6GHz Intel Core I5 | Apple M1 Max chip |
 | Memory | 2x2GB= 4GB @ 1600MHz DDR3  | 2x4GB= 8GB @ 1600MHz DDR3 | 2x8GB= 16GB @ 1333MHz DDR3 | 2x8GB= 16GB @ 1600MHz DDR3 | 2x8GB= 16GB @ 1600MHz LPDDR3 | 64GB unified memory | 
