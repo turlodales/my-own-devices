@@ -48,9 +48,19 @@ My Own Devices
 
 
 # My Pc's
-| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | CPU Cooling | PSU | SSD | HDD | OS |
-| ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
-| Gaming / Video Editing PC  | CorsAir 540 Black | ASUS M5A97 AM3+ | AMD FX-8350 Eight-Core Processor AM3+| Patriot Viper 4x8GB = 32GB DDR3 1600MHz | Radeon RX 580 Series | CorsAir H80I V2 | PSU | SanDisk Ultra3D 500GB | WestenDigital 500GB Blue | Windows 10 Pro 64-bit |
+| Device |  Gaming / Video Editing PC | 
+| ---------- | ---------- | 
+| Case | CorsAir 540 Black | 
+| Motherboard | ASUS M5A97 AM3+ | 
+| Prosessor | AMD FX-8350 Eight-Core Processor AM3+| 
+| Memory | Patriot Viper 4x8GB = 32GB DDR3 1600MHz | 
+| Graphics Card | Radeon RX 580 Series | 
+| NIC | 1x Onboard | 
+| CPU Cooling | CorsAir H80I V2 | 
+| PSU | ? | 
+| SSD | SanDisk Ultra3D 500GB |  
+| HDD | WestenDigital 500GB Blue |
+| OS | Windows 10 Pro 64-bit |
 
 
 # My FreeNAS/TrueNAS
