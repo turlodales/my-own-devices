@@ -55,7 +55,7 @@ My Own Devices
 | Prosessor | AMD FX-8350 Eight-Core Processor AM3+| 
 | Memory | Patriot Viper 4x8GB = 32GB DDR3 1600MHz | 
 | Graphics Card | Radeon RX 580 Series | 
-| NIC | 1x Onboard | 
+| NIC | 1x Onboard Realtek® 8111E Gigabit LAN controller | 
 | CPU Cooling | CorsAir H80I V2 | 
 | PSU | ? | 
 | SSD | SanDisk Ultra3D 500GB |  
