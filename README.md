@@ -9,10 +9,10 @@ My Own Devices
 
 
 # My 64bit iPhones
-| Device | iPhone 5S | iPhone 6 | iPhone 6S | iPhone 6S+ | iPhone SE |iPhone 7 |iPhone 7+ | iPhone 8+ | iPhone 11 Pro Max |
-| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |---------- |---------- |
-| iOS version | 12.4.8 | 12.4.8   | 13.5 |  13.5| 13.5 | 13.5 | 14.2 |13.5 |13.5 |
-| Jail broken | YES    |  YES   |  YES |  YES |    YES |    YES |  YES | YES | YES |
+| Device | iPhone 5S | iPhone 6 | iPhone 6S | iPhone 6S+ | iPhone SE |iPhone 7 |iPhone 7+ | iPhone 8+ | iPhone X |iPhone 11 Pro Max |
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |---------- |----------  |
+| iOS version | 12.4.8 | 12.4.8   | 13.5 |  13.5| 13.5 | 13.5 | 14.2 |13.5 |15.1 |13.5 |
+| Jail broken | YES    |  YES   |  YES |  YES |    YES |    YES |  YES | YES | NO |YES |
 
 
 # My 64bit iPads
