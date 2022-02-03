@@ -74,9 +74,9 @@ My Own Devices
 | NIC | 1x Onboard | 3x Onboard: 2x Dual embedded Intel 10/100/1000 Gigabit 1x NIC Remote management |
 | CPU Cooling | Stock Cooler | Stock Cooler |
 | PSU | ? | 2x 930W, hot-plug redundant power |
-| SSD | 32GB USB | 32GB USB |
+| SSD | 128GB SSD + 32GB USB | 32GB USB |
 | HDD | 10x4TB | 3x36GB 1x76 |
-| OS | TrueNAS-12.0-U6.1 | TrueNAS-12.0-U6.1 |
+| OS | TrueNAS-12.0-U8 | TrueNAS-12.0-U8 |
 
 
 # My Raspberry PI
