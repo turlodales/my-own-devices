@@ -80,9 +80,20 @@ My Own Devices
 
 
 # My Raspberry PI
-| Device | Case | Motherboard  | Prosessor | Memory | Graphics Card | CPU Cooling | PSU | SSD | HDD | OS |
+| Device | Case | Raspberry PI 4 | Prosessor | Memory | Graphics Card | CPU Cooling | PSU | SSD | HDD | OS |
 | ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
 | Raspberry PI 4 | none | Raspberry PI 4  | Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz | 8GB LPDDR4-3200 SDRAM| onboard | Stock Cooler | PoE Hat | 16GB Micro SD | none |  |
 
-
+| Device | Raspberry PI 4 |  
+| ---------- | ---------- | 
+| Case | none | 
+| Motherboard | Raspberry PI 4 | 
+| Prosessor | Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz |
+| Memory | 8GB LPDDR4-3200 SDRAM|  
+| Graphics Card | onboard |
+| CPU Cooling | Stock Cooler |
+| PSU | PoE Hat |
+| SSD | 16GB Micro SD | 
+| HDD | none |
+| OS |   |
 
