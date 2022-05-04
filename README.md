@@ -15,8 +15,8 @@ My Own Devices
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |---------- |----------  |----------  |
 | iOS version  | 12.4.8 | 12.4.8   | 13.5 |  13.5| 13.5 | 13.5 | 14.2 |13.5 |15.2 |13.5 |
 | Jail broken  | YES    |  YES   |  YES |  YES |    YES |    YES |  YES | YES | NO |YES |
-| JB Tool Used |     | unc0ver |   |   | unc0ver |   |    |    |   |   |
-| Type         |     | semi-untethered |   |   | semi-untethered |   |  |    |   |   |
+| JB Tool Used |     |  | unc0ver |   | unc0ver |   |    |    |   |   |
+| Type         |     |  | semi-untethered |   | semi-untethered |   |  |    |   |   |
 
 
 # My 64bit iPads
