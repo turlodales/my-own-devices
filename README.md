@@ -6,6 +6,8 @@ My Own Devices
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
 | iOS version | 3.1.3 | 4.2.1 |6.1.6 | 7.1.2 | 9.3.6 | 10.3.4 | 10.3.3 | 
 | Jail broken | YES | YES | YES | YES | YES | YES | YES |
+| JB Tool Used | Sn0wbreeze |  |  |  |  |  |  |
+| Type |  |  |  |  |  |  |  |
 
 
 # My 64bit iPhones
@@ -13,6 +15,8 @@ My Own Devices
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |---------- |----------  |----------  |
 | iOS version | 12.4.8 | 12.4.8   | 13.5 |  13.5| 13.5 | 13.5 | 14.2 |13.5 |15.2 |13.5 |
 | Jail broken | YES    |  YES   |  YES |  YES |    YES |    YES |  YES | YES | NO |YES |
+| JB Tool Used |     |     |   |   |   |   |    |    |   |   |
+| Type |     |     |   |   |   |   |    |    |   |   |
 
 
 # My 64bit iPads
@@ -20,6 +24,8 @@ My Own Devices
 | ---------- | ---------- | ---------- | ---------- |---------- | 
 | iOS version | 10.2 | 13.5 | 13.5 | 12.5.1 |
 | Jail broken | yes | yes | yes | yes | 
+| JB Tool Used |  |  |  |  |
+| Type |  |  |  |  |
 
 
 # My Apple Watch
@@ -34,6 +40,8 @@ My Own Devices
 | ---------- | ---------- | ---------- |  
 | iOS version | 8.4.3 | 13.4.5 |  
 | Jail broken | NO | YES |   
+| JB Tool Used   |  |  | 
+| Type        |  |  | 
 
 
 # My Mac's
