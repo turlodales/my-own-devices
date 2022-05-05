@@ -15,7 +15,7 @@ My Own Devices
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |---------- |----------  |----------  |
 | iOS version  | 12.4.8 | 12.4.8   | 14.3 |  14.3| 13.5 | 13.5 | 14.2 |13.5 |15.2 |13.5 |
 | Jail broken  | YES    |  YES   |  YES |  YES |    YES |    YES |  YES | YES | NO |YES |
-| JB Tool Used |     |  | unc0ver | unc0ver | unc0ver | unc0ver |    |    |   |   |
+| JB Tool Used |     |  | unc0ver | unc0ver | unc0ver | unc0ver | unc0ver | unc0ver |  | unc0ver |
 | Type         |     |  | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered |   | semi-untethered |
 
 
@@ -24,8 +24,8 @@ My Own Devices
 | ---------- | ---------- | ---------- | ---------- |---------- | 
 | iOS version | 10.2 | 13.5 | 13.5 | 12.5.1 |
 | Jail broken | yes | yes | yes | yes | 
-| JB Tool Used |  |  |  |  |
-| Type |  |  |  |  |
+| JB Tool Used |  | unc0ver | unc0ver |  |
+| Type |  | semi-untethered | semi-untethered |  |
 
 
 # My Apple Watch
