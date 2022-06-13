@@ -13,9 +13,9 @@ My Own Devices
 # My 64bit iPhones
 | Device | iPhone 5S | iPhone 6 | iPhone 6S | iPhone 6S+ | iPhone SE |iPhone 7 |iPhone 7+ | iPhone 8+ | iPhone X | iPhone XR | iPhone 11 Pro Max |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ----------  | ----------  | ----------  |
-| iOS version  | 12.4.8 | 12.4.8   | 14.3 |  14.3| 13.5 | 13.5 | 14.2 |13.5 |15.2 | ?? |13.5 |
-| Jail broken  | YES    |  YES   |  YES |  YES |    YES |    YES |  YES | YES | NO | ?? |YES |
-| JB Tool Used |     |  | unc0ver | unc0ver | unc0ver | unc0ver | unc0ver | unc0ver | ?? | unc0ver |unc0ver |
+| iOS version  | 12.4.8 | 12.4.8   | 14.3 |  14.3| 13.5 | 13.5 | 14.2 |13.5 |15.2 | 16.0 |13.5 |
+| Jail broken  | YES    |  YES   |  YES |  YES |    YES |    YES |  YES | YES | NO | NO |YES |
+| JB Tool Used |     |  | unc0ver | unc0ver | unc0ver | unc0ver | unc0ver | unc0ver | ?? | ?? |unc0ver |
 | Type         |     |  | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered |   | ?? |semi-untethered |
 
 
