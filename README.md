@@ -11,12 +11,12 @@ My Own Devices
 
 
 # My 64bit iPhones
-| Device | iPhone 5S | iPhone 6 | iPhone 6S | iPhone 6S+ | iPhone SE |iPhone 7 |iPhone 7+ | iPhone 8+ | iPhone X | iPhone XR | iPhone 11 Pro Max |
-| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ----------  | ----------  | ----------  |
-| iOS version  | 12.4.8 | 12.4.8   | 14.3 |  14.3| 13.5 | 13.5 | 14.2 |13.5 |15.2 | 16.0 |13.5 |
-| Jail broken  | YES    |  YES   |  YES |  YES |    YES |    YES |  YES | YES | NO | NO |YES |
-| JB Tool Used |     |  | unc0ver | unc0ver | unc0ver | unc0ver | unc0ver | unc0ver | ?? | ?? |unc0ver |
-| Type         |     |  | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered |   | ?? |semi-untethered |
+| Device | iPhone 5S | iPhone 6 | iPhone 6S | iPhone 6S+ | iPhone SE |iPhone 7 |iPhone 7+ | iPhone 8+ | iPhone X | iPhone XR | iPhone 11 Pro Max | iPhone 14 Pro Max |
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ----------  | ----------  | ---------- | ---------- |
+| iOS version  | 12.4.8 | 12.4.8   | 14.3 |  14.3| 13.5 | 13.5 | 14.2 |13.5 |15.2 | 16.1 |13.5 |16.? |
+| Jail broken  | YES    |  YES   |  YES |  YES |    YES |    YES |  YES | YES | NO | NO |YES | NO |
+| JB Tool Used |     |  | unc0ver | unc0ver | unc0ver | unc0ver | unc0ver | unc0ver | ?? | ?? |unc0ver | ?? |
+| Type         |     |  | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered |   | ?? |semi-untethered | ?? |
 
 
 # My 64bit iPads
@@ -31,8 +31,8 @@ My Own Devices
 # My Apple Watch
 | Device | Apple Watch 1st gen (original) 42mm | Apple Watch 6th gen 44mm |
 | ---------- | ---------- | ---------- |
-| iOS version | 4.3.2 |  7.0 |
-| Jail broken | NO |  No |
+| iOS version | 4.3.2 | 7.3.3 (18S830) |
+| Jail broken | NO | No |
 
 
 # My Apple tv
