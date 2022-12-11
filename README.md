@@ -19,12 +19,12 @@ My Own Devices
 | Type         |     |  | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered |
 
 # My 64bit iPhones X - 14 Pro Max
-| Device | iPhone X | iPhone XR | iPhone 11 Pro Max | iPhone 14 Pro Max |
-| ---------- | ---------- | ---------- | ---------- | ---------- | 
-| iOS version  |  15.2 | 16.1 |13.5 |16.? |
-| Jail broken  |  NO | NO |YES | NO |
-| JB Tool Used |  ?? | ?? |unc0ver | ?? |
-| Type         |     | ?? |semi-untethered | ?? |
+| Device | iPhone X | iPhone XR | iPhone 11 | iPhone 11 Pro Max |iPhone 14 Pro Max |
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | 
+| iOS version  |  15.2 | 16.1 | 16.0.3 | 13.5 |16.? |
+| Jail broken  |  NO | NO | NO | YES | NO |
+| JB Tool Used |  ?? | ?? | ?? | unc0ver | ?? |
+| Type         |     | ?? | ?? | semi-untethered | ?? |
 
 
 # My 64bit iPads
