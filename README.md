@@ -60,7 +60,7 @@ My Own Devices
 | Graphics Card | Intel HD Graphics 4000 1536MB | Intel HD Graphics 3000 512MB | Intel HD Graphics 4000 1536MB | Intel iris Graphics 1536MB | Intel Iris Graphics 1536MB | 32-core GPU |
 | SSD | - | 128GB | 960GB | 500GB | - | 1TB SSD |
 | HDD | 500GB | 250GB | 500GB | - | 251GB | - |
-| OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.5 (21G72) | MacOS Ventura 13.1 Beta 3 (22C5050e) |
+| OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.6.4 (21G526) | MacOS Ventura 13.3 Beta RC 2 (14E222b) |
 
 
 # My Pc's
