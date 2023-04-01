@@ -60,7 +60,7 @@ My Own Devices
 | Graphics Card | Intel HD Graphics 4000 1536MB | Intel HD Graphics 3000 512MB | Intel HD Graphics 4000 1536MB | Intel iris Graphics 1536MB | Intel Iris Graphics 1536MB | 32-core GPU |
 | SSD | - | 128GB | 960GB | 500GB | - | 1TB SSD |
 | HDD | 500GB | 250GB | 500GB | - | 251GB | - |
-| OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.6.4 (21G526) | MacOS Ventura 13.3 Beta RC 2 (14E222b) |
+| OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.6.5 (21G630) | MacOS Ventura 13.4 Beta 1 (22F5027f) |
 
 
 # My Pc's
@@ -92,7 +92,7 @@ My Own Devices
 | PSU | ? | 2x 930W, hot-plug redundant power |
 | SSD | 128GB SSD + 32GB USB | 32GB USB |
 | HDD | 10x4TB | 3x36GB 1x76 |
-| OS | TrueNAS-13.0-U3 | TrueNAS-13.0-U3 |
+| OS | TrueNAS-13.0-U4 | TrueNAS-13.0-U4 |
 
 
 # My Raspberry PI
