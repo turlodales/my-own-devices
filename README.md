@@ -39,7 +39,7 @@ My Own Devices
 # My Apple Watch
 | Device | Apple Watch 1st gen (original) 42mm | Apple Watch 6th gen 44mm |
 | ---------- | ---------- | ---------- |
-| iOS version | 4.3.2 | 7.3.3 (18S830) |
+| iOS version | 4.3.2 | 9.3.1 (20S664) |
 | Jail broken | NO | No |
 
 
