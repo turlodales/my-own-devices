@@ -43,7 +43,7 @@ My Own Devices
 | Jail broken | NO | No |
 
 
-# My Apple tv
+# My Apple TV
 | Device | ATV 3rd Gen | ATV 4th gen | 
 | ---------- | ---------- | ---------- |  
 | iOS version | 8.4.3 | 13.4.5 |  
@@ -68,7 +68,7 @@ My Own Devices
 | ---------- | ---------- | 
 | Case | CorsAir 540 Black | 
 | Motherboard | ASUS M5A97 AM3+ | 
-| Prosessor | AMD FX-8350 Eight-Core Processor AM3+| 
+| Processor | AMD FX-8350 Eight-Core Processor AM3+| 
 | Memory | Patriot Viper 4x8GB = 32GB DDR3 1600MHz | 
 | Graphics Card | Radeon RX 580 Series | 
 | NIC | 1x Onboard Realtek® 8111E Gigabit LAN controller | 
@@ -100,7 +100,7 @@ My Own Devices
 | ---------- | ---------- | 
 | Case | none | 
 | Motherboard | Raspberry PI 4 | 
-| Prosessor | Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz |
+| Processor | Broadcom BCM2711, Quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz |
 | Memory | 8GB LPDDR4-3200 SDRAM|  
 | Graphics Card | onboard |
 | CPU Cooling | Stock Cooler |
