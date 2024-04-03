@@ -21,10 +21,10 @@ My Own Devices
 # My 64bit iPhones X - 14 Pro Max
 | Device | iPhone X | iPhone XR | iPhone 11 | iPhone 11 Pro Max |iPhone 14 Pro Max |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | 
-| iOS version  |  15.2 | 16.1 | 16.0.3 | 13.5 |16.? |
-| Jail broken  |  NO | NO | NO | YES | NO |
-| JB Tool Used |  ?? | ?? | ?? | unc0ver | ?? |
-| Type         |     | ?? | ?? | semi-untethered | ?? |
+| iOS version  |  15.2 | 16.1 | 16.0.3 | 13.5 |16.2 |
+| Jail broken  |  NO | NO | NO | YES | YES |
+| JB Tool Used |  ?? | ?? | ?? | unc0ver | TrollStore / Dopamine |
+| Type         |     | ?? | ?? | semi-untethered | semi-untethered |
 
 
 # My 64bit iPads
@@ -60,7 +60,7 @@ My Own Devices
 | Graphics Card | Intel HD Graphics 4000 1536MB | Intel HD Graphics 3000 512MB | Intel HD Graphics 4000 1536MB | Intel iris Graphics 1536MB | Intel Iris Graphics 1536MB | 32-core GPU |
 | SSD | - | 128GB | 960GB | 500GB | - | 1TB SSD |
 | HDD | 500GB | 250GB | 500GB | - | 251GB | - |
-| OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.7.2 (21G1925) | MacOS Sonoma 14.2 Beta 2 (23c5030f) |
+| OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.7.5 (21H1205) | MacOS Sonoma 14.2 Beta 2 (23c5030f) |
 
 
 # My Pc's
@@ -92,7 +92,7 @@ My Own Devices
 | PSU | ? | 2x 930W, hot-plug redundant power |
 | SSD | 128GB SSD + 32GB USB | 32GB USB |
 | HDD | 10x4TB | 3x36GB 1x76 |
-| OS | TrueNAS-13.0-U4 | TrueNAS-13.0-U4 |
+| OS | TrueNAS Core-13.0-U6.1 | TrueNAS Core-13.0-U6.1 |
 
 
 # My Raspberry PI
