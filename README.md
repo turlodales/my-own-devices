@@ -92,7 +92,7 @@ My Own Devices
 | PSU | ? | 2x 930W, hot-plug redundant power |
 | SSD | 128GB SSD + 32GB USB | 32GB USB |
 | HDD | 10x4TB | 3x36GB 1x76 |
-| OS | TrueNAS Core-13.0-U6.1 | TrueNAS Core-13.0-U6.1 |
+| OS | Dragonfish-24.04.1.1 | Dragonfish-24.04.1.1 |
 
 
 # My Raspberry PI
