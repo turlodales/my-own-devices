@@ -93,7 +93,10 @@ My Own Devices
 | SSD | 128GB SSD + 32GB USB | 32GB USB |
 | HDD | 10x4TB | 3x36GB 1x76 |
 | OS | TrueNAS Scale - ElectricEel-24.10.0.2 | TrueNAS Scale - ElectricEel-24.10.0.2 |
-
+| Installed Date |  |  |  |
+| Manufacture End of Life Date |  |  |  |
+| My System End of Life Date |  |  |  |
+| Replace Date |  |  |  |
 
 # My Raspberry PI
 | Device | Raspberry PI 4 |  
