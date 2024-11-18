@@ -80,10 +80,10 @@ My Own Devices
 
 
 # My TrueNAS System's
-| Device |  Media Server | BackUP Server |
-| ---------- | ---------- | ---------- |
-| Case | Rackmount | Rackmount |
-| Motherboard | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Dell Poweredge 2850 |
+| Device |  Media Server | BackUP Server | New BackUP Server |
+| ---------- | ---------- | ---------- | ---------- |
+| Case | Rackmount | Rackmount | Rackmount |
+| Motherboard | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Dell Poweredge 2850 | Dell PowerEdge R720xd |
 | Prosessor | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 2x Intel(R) Xeon(TM) CPU 3.00GHz |
 | Memory | 8GB ECC | 4gb DDR2 ECC |
 | Graphics Card | onboard | onboard |
@@ -92,7 +92,7 @@ My Own Devices
 | PSU | ? | 2x 930W, hot-plug redundant power |
 | SSD | 128GB SSD + 32GB USB | 32GB USB |
 | HDD | 10x4TB | 3x36GB 1x76 |
-| OS | TrueNAS Scale - Dragonfish-24.04.1.1 | TrueNAS Scale - Dragonfish-24.04.1.1 |
+| OS | TrueNAS Scale - ElectricEel-24.10.0.2 | TrueNAS Scale - ElectricEel-24.10.0.2 |
 
 
 # My Raspberry PI
