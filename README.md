@@ -84,19 +84,19 @@ My Own Devices
 | ---------- | ---------- | ---------- | ---------- |
 | Case | Rackmount | Rackmount | Rackmount |
 | Motherboard | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Dell Poweredge 2850 | Dell PowerEdge R720xd |
-| Prosessor | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 2x Intel(R) Xeon(TM) CPU 3.00GHz |
-| Memory | 8GB ECC | 4gb DDR2 ECC |
-| Graphics Card | onboard | onboard |
-| NIC | 1x Onboard | 3x Onboard: 2x Dual embedded Intel 10/100/1000 Gigabit 1x NIC Remote management |
-| CPU Cooling | Stock Cooler | Stock Cooler |
-| PSU | ? | 2x 930W, hot-plug redundant power |
-| SSD | 128GB SSD + 32GB USB | 32GB USB |
+| Prosessor | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 2x Intel(R) Xeon(TM) CPU 3.00GHz | Xeon E5-2650 2.00GHz 32GB |
+| Memory | 8GB ECC DDR2 | 4gb DDR2 ECC | 32GB DDR3 ECC |
+| Graphics Card | onboard | onboard | onboard |
+| NIC | 1x Onboard | 3x Onboard: 2x Dual embedded Intel 10/100/1000 Gigabit 1x NIC Remote management | Dell i350 4-Port 1GB Daughter Card - R1XFC + 1x NIC Remote management
+| CPU Cooling | Stock Cooler | Stock Cooler | Stock Cooler |
+| PSU | ? | 2x 930W, hot-plug redundant power | 2x 750W, hot-plug redundant power |
+| SSD | 128GB SSD + 32GB USB | 32GB USB | 
 | HDD | 10x4TB | 3x36GB 1x76 |
-| OS | TrueNAS Scale - ElectricEel-24.10.0.2 | TrueNAS Scale - ElectricEel-24.10.0.2 |
-| Installed Date |  |  |  |
-| Manufacture End of Life Date |  |  |  |
-| My System End of Life Date |  |  |  |
-| Replace Date |  |  |  |
+| OS | TrueNAS Scale - ElectricEel-24.10.0.2 | TrueNAS Scale - ElectricEel-24.10.0.2 | TrueNAS Scale - ElectricEel-24.10.0.2 |
+| Installed Date |  |  | | 21/Nov/24 |
+| Manufacture End of Life Date |  |  |  | May 18, 2018  |
+| My System End of Life Date |  |  |  | when i cant get parts |
+| Replace Date |  |  |  | |
 
 # My Raspberry PI
 | Device | Raspberry PI 4 |  
