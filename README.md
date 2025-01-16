@@ -92,10 +92,10 @@ My Own Devices
 | PSU | ? | 2x 930W, hot-plug redundant power | 2x 750W, hot-plug redundant power |
 | SSD | 128GB SSD + 32GB USB | 32GB USB | 
 | HDD | 10x4TB | 3x36GB 1x76 |
-| OS | TrueNAS Scale - ElectricEel-24.10.0.2 | TrueNAS Scale - ElectricEel-24.10.0.2 | TrueNAS Scale - ElectricEel-24.10.0.2 |
-| Installed Date |  |  | | 21/Nov/24 |
-| Manufacture End of Life Date |  |  |  | May 18, 2018  |
-| My System End of Life Date |  |  |  | when i cant get parts |
+| OS | TrueNAS Scale - ElectricEel - 24.10.0.2 | TrueNAS Scale - ElectricEel - 24.10.0.2 | TrueNAS Scale - ElectricEel - 24.10.0.2 |
+| Installed Date |  |  | 21/Nov/24 |
+| Manufacture End of Life Date |  |  | May 18, 2018  |
+| My System End of Life Date |  |  | when i cant get parts |
 | Replace Date |  |  |  | |
 
 # My Raspberry PI
