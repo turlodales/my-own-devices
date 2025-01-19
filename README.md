@@ -84,7 +84,7 @@ My Own Devices
 | ---------- | ---------- | ---------- | ---------- |
 | Case | Rackmount | Rackmount | Rackmount |
 | Motherboard | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Dell Poweredge 2850 | Dell PowerEdge R720xd |
-| Prosessor | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 2x Intel(R) Xeon(TM) CPU 3.00GHz | Xeon E5-2650 2.00GHz 32GB |
+| Prosessor | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 2x Intel(R) Xeon(TM) CPU 3.00GHz | 1X Xeon E5-2650 2.00GHz Cores: 8 Threads: 16 |
 | Memory | 8GB ECC DDR2 | 4gb DDR2 ECC | 32GB DDR3 ECC |
 | Graphics Card | onboard | onboard | onboard |
 | NIC | 1x Onboard | 3x Onboard: 2x Dual embedded Intel 10/100/1000 Gigabit 1x NIC Remote management | Dell i350 4-Port 1GB Daughter Card - R1XFC + 1x NIC Remote management
