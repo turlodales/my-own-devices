@@ -53,7 +53,7 @@ My Own Devices
 
 
 # My Mac's
-| Device | Mac Mini Late 2012 | MacBook Pro Late 2011 | MacBook Pro Mid 2012 | MacBook Pro Late 2013 | Mac Mini Late 2014 | MacBook Pro M1 Max 2021 |
+| Device | Mac Mini Late 2012 | MacBook Pro Late 2011 | MacBook Pro Mid 2012 | MacBook Pro Late 2013 | Mac Mini Late 2014 | MacBook Pro M1 Max 2021 | 
 | ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- |  
 | Prosessor    | 2.5GHz Intel Core I5 | 2.4GHz Intel Core I5 | 2.5GHz Intel Core I5 | 2.6GHz Intel Core I5 | 2.6GHz Intel Core I5 | Apple M1 Max |
 | Memory | 2x2GB= 4GB @ 1600MHz DDR3  | 2x4GB= 8GB @ 1600MHz DDR3 | 2x8GB= 16GB @ 1333MHz DDR3 | 2x8GB= 16GB @ 1600MHz DDR3 | 2x8GB= 16GB @ 1600MHz LPDDR3 | 64GB unified memory | 
@@ -75,28 +75,28 @@ My Own Devices
 | CPU Cooling | CorsAir H80I V2 | 
 | PSU | ? | 
 | SSD | SanDisk Ultra3D 500GB |  
-| HDD | WestenDigital 500GB Blue |
+| HDD | Western Digital 500GB Blue |
 | OS | Windows 10 Pro 64-bit |
 
 
 # My TrueNAS System's
-| Device |  Media Server | BackUP Server | New BackUP Server |
-| ---------- | ---------- | ---------- | ---------- |
-| Case | Rackmount | Rackmount | Rackmount |
-| Motherboard | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Dell Poweredge 2850 | Dell PowerEdge R720xd |
-| Prosessor | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 2x Intel(R) Xeon(TM) CPU 3.00GHz | 1X Xeon E5-2650 2.00GHz Cores: 8 Threads: 16 |
-| Memory | 8GB ECC DDR2 | 4gb DDR2 ECC | 32GB DDR3 ECC |
-| Graphics Card | onboard | onboard | onboard |
-| NIC | 1x Onboard | 3x Onboard: 2x Dual embedded Intel 10/100/1000 Gigabit 1x NIC Remote management | Dell i350 4-Port 1GB Daughter Card - R1XFC + 1x NIC Remote management
-| CPU Cooling | Stock Cooler | Stock Cooler | Stock Cooler |
-| PSU | ? | 2x 930W, hot-plug redundant power | 2x 750W, hot-plug redundant power |
+| Device |  Media Server | New BackUP Server |
+| ---------- | ---------- | ---------- |
+| Case | Rackmount | Rackmount |
+| Motherboard | Gigabite S-Series Ultra Durable 2 GA-EP35-DS3  | Dell PowerEdge R720xd |
+| Prosessor | Intel 2 Duo CPU E8500 @ 3.16GHz (2 cores) | 1X Xeon E5-2650 2.00GHz Cores: 8 Threads: 16 |
+| Memory | 8GB ECC DDR2 | 32GB DDR3 ECC |
+| Graphics Card | onboard | onboard |
+| NIC | 1x Onboard | Dell i350 4-Port 1GB Daughter Card - R1XFC + 1x NIC Remote management
+| CPU Cooling | Stock Cooler | Stock Cooler |
+| PSU | ? | 2x 750W, hot-plug redundant power |
 | SSD | 128GB SSD + 32GB USB | 32GB USB | 
 | HDD | 10x4TB | 3x36GB 1x76 |
-| OS | TrueNAS Scale - ElectricEel - 24.10.0.2 | TrueNAS Scale - ElectricEel - 24.10.0.2 | TrueNAS Scale - ElectricEel - 24.10.0.2 |
-| Installed Date |  |  | 21/Nov/24 |
-| Manufacture End of Life Date |  |  | May 18, 2018  |
-| My System End of Life Date |  |  | when i cant get parts |
-| Replace Date |  |  |  | |
+| OS | TrueNAS Scale - Fangtooth - 25.04.2.4 | TrueNAS Scale - Fangtooth - 25.04.2.4 |
+| Installed Date |  | 21/Nov/24 |
+| Manufacture End of Life Date |  |  May 18, 2018  |
+| My System End of Life Date |  | when i cant get parts |
+| Replace Date |  |  |  |
 
 # My Raspberry PI
 | Device | Raspberry PI 4 |  
