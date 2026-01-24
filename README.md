@@ -73,7 +73,7 @@ My Own Devices
 | Graphics Card | Radeon RX 580 Series | 
 | NIC | 1x Onboard Realtek® 8111E Gigabit LAN controller | 
 | CPU Cooling | CorsAir H80I V2 | 
-| PSU | ? | 
+| PSU | CorsAir 800W | 
 | SSD | SanDisk Ultra3D 500GB |  
 | HDD | Western Digital 500GB Blue |
 | OS | Windows 10 Pro 64-bit |
