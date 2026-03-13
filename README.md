@@ -53,14 +53,14 @@ My Own Devices
 
 
 # My Mac's
-| Device | Mac Mini Late 2012 | MacBook Pro Late 2011 | MacBook Pro Mid 2012 | MacBook Pro Late 2013 | Mac Mini Late 2014 | MacBook Pro M1 Max 2021 | 
-| ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- |  
-| Prosessor    | 2.5GHz Intel Core I5 | 2.4GHz Intel Core I5 | 2.5GHz Intel Core I5 | 2.6GHz Intel Core I5 | 2.6GHz Intel Core I5 | Apple M1 Max |
-| Memory | 2x2GB= 4GB @ 1600MHz DDR3  | 2x4GB= 8GB @ 1600MHz DDR3 | 2x8GB= 16GB @ 1333MHz DDR3 | 2x8GB= 16GB @ 1600MHz DDR3 | 2x8GB= 16GB @ 1600MHz LPDDR3 | 64GB unified memory | 
-| Graphics Card | Intel HD Graphics 4000 1536MB | Intel HD Graphics 3000 512MB | Intel HD Graphics 4000 1536MB | Intel iris Graphics 1536MB | Intel Iris Graphics 1536MB | 32-core GPU |
-| SSD | - | 128GB | 960GB | 500GB | - | 1TB SSD |
-| HDD | 500GB | 250GB | 500GB | - | 251GB | - |
-| OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.7.5 (21H1205) | MacOS 15.0 Sequoia B1 (22A5282m)|
+| Device | Mac Mini Late 2012 | MacBook Pro Late 2011 | MacBook Pro Mid 2012 | MacBook Pro Late 2013 | Mac Mini Late 2014 | MacBook Pro M1 Max 2021 |  MacBook Pro M1 Max 2021 | 
+| ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- |  ---------- |  
+| Prosessor    | 2.5GHz Intel Core I5 | 2.4GHz Intel Core I5 | 2.5GHz Intel Core I5 | 2.6GHz Intel Core I5 | 2.6GHz Intel Core I5 | Apple M1 Max | Apple M5 Max 18‑core CPU, 6 super cores, 12 performance cores |
+| Memory | 2x2GB= 4GB @ 1600MHz DDR3  | 2x4GB= 8GB @ 1600MHz DDR3 | 2x8GB= 16GB @ 1333MHz DDR3 | 2x8GB= 16GB @ 1600MHz DDR3 | 2x8GB= 16GB @ 1600MHz LPDDR3 | 64GB unified memory |  128GB unified memory | 
+| Graphics Card | Intel HD Graphics 4000 1536MB | Intel HD Graphics 3000 512MB | Intel HD Graphics 4000 1536MB | Intel iris Graphics 1536MB | Intel Iris Graphics 1536MB | 32-core GPU | 40-core GPU |
+| SSD | - | 128GB | 960GB | 500GB | - | 1TB SSD | 8TB SSD |
+| HDD | 500GB | 250GB | 500GB | - | 251GB | - | - |
+| OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.7.5 (21H1205) | MacOS 15.0 Sequoia B1 (22A5282m)| MacOS Tahoe 26.? (?) |
 
 
 # My Pc's
