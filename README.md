@@ -18,13 +18,13 @@ My Own Devices
 | JB Tool Used |     |  | unc0ver | unc0ver | unc0ver | unc0ver | unc0ver | unc0ver | 
 | Type         |     |  | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered |
 
-# My 64bit iPhones X - 14 Pro Max
-| Device | iPhone X | iPhone XR | iPhone 11 | iPhone 11 Pro Max |iPhone 14 Pro Max |
-| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | 
-| iOS version  |  15.2 | 18.1 B4 | 18.0 | 13.5 |16.2 |
-| Jail broken  |  NO | NO | NO | YES | YES |
-| JB Tool Used |  ?? | ?? | ?? | unc0ver | TrollStore / Dopamine |
-| Type         |     | ?? | ?? | semi-untethered | semi-untethered |
+# My 64bit iPhones X - 17 Pro Max
+| Device | iPhone X | iPhone XR | iPhone 11 | iPhone 11 Pro Max | iPhone 14 Pro Max | iPhone 17 Pro Max |
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | 
+| iOS version  |  15.2 | 18.1 B4 | 18.0 | 13.5 | 16.2 | 16.2 | 26.1 |
+| Jail broken  |  NO | NO | NO | YES | YES | NO |
+| JB Tool Used |  ?? | ?? | ?? | unc0ver | TrollStore / Dopamine | ?? |
+| Type         |  ?? | ?? | ?? | semi-untethered | semi-untethered | ?? |
 
 
 # My 64bit iPads
@@ -55,7 +55,7 @@ My Own Devices
 # My Mac's
 | Device | Mac Mini Late 2012 | MacBook Pro Late 2011 | MacBook Pro Mid 2012 | MacBook Pro Late 2013 | Mac Mini Late 2014 | MacBook Pro M1 Max 2021 |  MacBook Pro M1 Max 2021 | 
 | ---------- | ---------- | ----------  | ---------- | ---------- | ---------- | ---------- |  ---------- |  
-| Prosessor    | 2.5GHz Intel Core I5 | 2.4GHz Intel Core I5 | 2.5GHz Intel Core I5 | 2.6GHz Intel Core I5 | 2.6GHz Intel Core I5 | Apple M1 Max 10-core CPU, 8 performance cores, 2 efficiency cores | Apple M5 Max 18‑core CPU, 6 super cores, 12 performance cores |
+| Processor | 2.5GHz Intel Core I5 | 2.4GHz Intel Core I5 | 2.5GHz Intel Core I5 | 2.6GHz Intel Core I5 | 2.6GHz Intel Core I5 | Apple M1 Max 10-core CPU, 8 performance cores, 2 efficiency cores | Apple M5 Max 18‑core CPU, 6 super cores, 12 performance cores |
 | Memory | 2x2GB= 4GB @ 1600MHz DDR3  | 2x4GB= 8GB @ 1600MHz DDR3 | 2x8GB= 16GB @ 1333MHz DDR3 | 2x8GB= 16GB @ 1600MHz DDR3 | 2x8GB= 16GB @ 1600MHz LPDDR3 | 64GB unified memory | 128GB unified memory | 
 | Graphics Card | Intel HD Graphics 4000 1536MB | Intel HD Graphics 3000 512MB | Intel HD Graphics 4000 1536MB | Intel iris Graphics 1536MB | Intel Iris Graphics 1536MB | 32-core GPU | 40-core GPU |
 | Neural Engine | - | - | - | - | - | 16-core | 16-core |
