@@ -61,8 +61,8 @@ My Own Devices
 | Neural Engine | - | - | - | - | - | 16-core | 16-core |
 | SSD | - | 128GB | 960GB | 500GB | - | 1TB SSD | 8TB SSD |
 | HDD | 500GB | 250GB | 500GB | - | 251GB | - | - |
-| Starting OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.7.5 (21H1205) | MacOS 15.0 Sequoia B1 (22A5282m)| MacOS Tahoe 26.? (?) |
-| End Of Life OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.7.5 (21H1205) | MacOS 15.0 Sequoia B1 (22A5282m)| MacOS Tahoe 26.? (?) |
+| Starting OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.7.5 (21H1205) | MacOS 15.0 Sequoia B1 (22A5282m)| MacOS Tahoe 26.3 (25D125) |
+| End Of Life OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.7.5 (21H1205) | MacOS 15.0 Sequoia B1 (22A5282m)| MacOS Tahoe 26.4 (25E246) |
 
 # My Pc's
 | Device |  Gaming / Video Editing PC | 
