@@ -19,12 +19,12 @@ My Own Devices
 | Type         |     |  | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered | semi-untethered |
 
 # My 64bit iPhones X - 17 Pro Max
-| Device | iPhone X | iPhone XR | iPhone 11 | iPhone 11 Pro Max | iPhone 14 Pro Max | iPhone 17 Pro Max |
-| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | 
-| iOS version  |  15.2 | 18.1 B4 | 18.0 | 13.5 | 16.2 | 16.2 | 26.1 |
-| Jail broken  |  NO | NO | NO | YES | YES | NO |
-| JB Tool Used |  ?? | ?? | ?? | unc0ver | TrollStore / Dopamine | ?? |
-| Type         |  ?? | ?? | ?? | semi-untethered | semi-untethered | ?? |
+| Device | iPhone X | iPhone XR | iPhone 11 | iPhone 11 Pro Max | iPhone 14 Pro Max | iPhone 17 Pro Max | iPhone Duo |
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | 
+| iOS version  |  15.2 | 18.1 B4 | 18.0 | 13.5 | 16.2 | 16.2 | 26.1 | 27.1? |
+| Jail broken  |  NO | NO | NO | YES | YES | NO | NO |
+| JB Tool Used |  ?? | ?? | ?? | unc0ver | TrollStore / Dopamine | ?? | ?? |
+| Type         |  ?? | ?? | ?? | semi-untethered | semi-untethered | ?? | ?? |
 
 
 # My 64bit iPads
@@ -62,7 +62,7 @@ My Own Devices
 | SSD | - | 128GB | 960GB | 500GB | - | 1TB SSD | 8TB SSD |
 | HDD | 500GB | 250GB | 500GB | - | 251GB | - | - |
 | Starting OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.7.5 (21H1205) | MacOS 15.0 Sequoia B1 (22A5282m)| MacOS Tahoe 26.3 (25D125) |
-| End Of Life OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.7.5 (21H1205) | MacOS 15.0 Sequoia B1 (22A5282m)| MacOS Tahoe 26.4 (25E246) |
+| End Of Life OS | MacOS Catalina 10.15.7 | MacOS High Sierra 10.13.6 | MacOS Catalina 10.15.7 | MacOS Big Sur 11.6.2 (20G313) | MacOS Monterey 12.7.5 (21H1205) | MacOS 15.0 Sequoia B1 (22A5282m)| MacOS Golden Gate 27.0.1 (26A434) |
 
 # My Pc's
 | Device |  Gaming / Video Editing PC | 
@@ -91,9 +91,10 @@ My Own Devices
 | NIC | 1x Onboard | Dell i350 4-Port 1GB Daughter Card - R1XFC + 1x NIC Remote management
 | CPU Cooling | Stock Cooler | Stock Cooler |
 | PSU | ? | 2x 750W, hot-plug redundant power |
+| OS Boot Drive | 1x 128GB | 2x 256GB Mirrored |
 | SSD | 128GB SSD + 32GB USB | 32GB USB | 
 | HDD | 10x4TB | 3x36GB 1x76 |
-| OS | TrueNAS Scale - Fangtooth - 25.04.2.4 | TrueNAS Scale - Fangtooth - 25.04.2.4 |
+| OS | TrueNAS Scale - Fangtooth - Goldeye - 25.10.7 | TrueNAS Scale - Goldeye - 25.10.7 | 
 | Installed Date |  | 21/Nov/24 |
 | Manufacture End of Life Date |  |  May 18, 2018  |
 | My System End of Life Date |  | when i cant get parts |
