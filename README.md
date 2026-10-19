@@ -21,7 +21,7 @@ My Own Devices
 # My 64bit iPhones X - 17 Pro Max
 | Device | iPhone X | iPhone XR | iPhone 11 | iPhone 11 Pro Max | iPhone 14 Pro Max | iPhone 17 Pro Max | iPhone Duo |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | 
-| iOS version  |  15.2 | 18.1 B4 | 18.0 | 13.5 | 16.2 | 16.2 | 26.1 | 27.1? |
+| iOS version  |  15.2 | 18.1 B4 | 18.0 | 13.5 | 16.2 | 16.2 | 26.1 | 27.1 |
 | Jail broken  |  NO | NO | NO | YES | YES | NO | NO |
 | JB Tool Used |  ?? | ?? | ?? | unc0ver | TrollStore / Dopamine | ?? | ?? |
 | Type         |  ?? | ?? | ?? | semi-untethered | semi-untethered | ?? | ?? |
